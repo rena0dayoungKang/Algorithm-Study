@@ -6,8 +6,8 @@
 
 ## 🙋 스터디원
 - [현빈](https://github.com/hbbine)
-- [다영](https://github.com/)
-- [소연](https://github.com/)
+- [다영](https://github.com/rena0dayoungKang)
+- [소연](https://github.com/Parksonia)
 
 ## 📌 Commit Rule
 **Commit Message**

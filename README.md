@@ -12,6 +12,7 @@
 - [다영](https://github.com/rena0dayoungKang)
 - [소연](https://github.com/Parksonia)
 - [상욱](https://github.com/WSU9874)
+- [연주](https://github.com/dev4syj)
 
 ### 📌 Commit Rule
 **Commit Message**

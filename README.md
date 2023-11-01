@@ -13,6 +13,7 @@
 - [소연](https://github.com/Parksonia)
 - [상욱](https://github.com/WSU9874)
 - [연주](https://github.com/dev4syj)
+- [은강](https://github.com/disneydreamworker)
 
 ### 📌 Commit Rule
 **Commit Message**

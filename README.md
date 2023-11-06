@@ -8,12 +8,13 @@
 개인별 날짜 디렉토리에 솔루션을 커밋하기
 
 ### 🙋 스터디원
-- [현빈](https://github.com/hbbine)
-- [다영](https://github.com/rena0dayoungKang)
-- [소연](https://github.com/Parksonia)
-- [상욱](https://github.com/WSU9874)
-- [연주](https://github.com/dev4syj)
-- [은강](https://github.com/disneydreamworker)
+- 🥰hbbine [현빈](https://github.com/hbbine)
+- 😊Rena [다영](https://github.com/rena0dayoungKang)
+- 😍Sonia [소연](https://github.com/Parksonia)
+- 🤩Uk [상욱](https://github.com/WSU9874)
+- 🤗SYJ [연주](https://github.com/dev4syj)
+- 🤓Holly [은강](https://github.com/disneydreamworker)
+- 😇NOHEUL [노을](https://github.com/noheul1030)
 
 ### 📌 Commit Rule
 **Commit Message**

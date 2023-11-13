@@ -15,7 +15,8 @@
 - 🤗SYJ [연주](https://github.com/dev4syj)
 - 🤓Holly [은강](https://github.com/disneydreamworker)
 - 😇NOHEUL [노을](https://github.com/noheul1030)
-
+- 😆mjmj2277 [민지](https://github.com/mjmj2277)
+  
 ### 📌 Commit Rule
 **Commit Message**
 - [날짜] [스터디원] - [문제이름]
